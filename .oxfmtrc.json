@@ -1,0 +1,7 @@
+{
+    "$schema": "./node_modules/oxfmt/configuration_schema.json",
+    "tabWidth": 2,
+    "trailingComma": "es5",
+    "objectWrap": "collapse",
+    "printWidth": 100
+}
